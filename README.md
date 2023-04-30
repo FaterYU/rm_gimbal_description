@@ -1,6 +1,10 @@
 # rm_gimbal_description
 RoboMaster 视觉自瞄系统所需的 URDF
 
+<img src="docs/rm_vision.svg" alt="rm_vision" width="200" height="200">
+
+该项目为 [rm_vision](https://github.com/chenjunnn/rm_vision) 的子模块
+
 ## 坐标系定义
 
 单位和方向请参考 https://www.ros.org/reps/rep-0103.html
